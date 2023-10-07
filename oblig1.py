@@ -146,20 +146,3 @@ print("Sort by increasing weight" + str(opt_vers3(10000, 50, construct1(10000, 7
 print("Sort by decreasing weight" + str(opt_vers3(10000, 50, construct2(10000, 70))))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Optimization algorithm 2:
