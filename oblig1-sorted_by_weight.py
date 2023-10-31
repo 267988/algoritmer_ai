@@ -142,5 +142,12 @@ def opt_vers3(num, k, construction):
     return (opt_weight, opt_value, len(bag))
 
 print("\nVersion 3 (capacity, value, number of items in the bag)")
+<<<<<<< HEAD:oblig1-sorted_by_weight.py
 print("Sort by increasing weight" + str(opt_vers3(10000, 50, construct1(10000, 50))))
 print("Sort by decreasing weight" + str(opt_vers3(10000, 50, construct2(10000, 50))))
+=======
+print("Sort by increasing weight" + str(opt_vers3(10000, 50, construct1(10000, 70))))
+print("Sort by decreasing weight" + str(opt_vers3(10000, 50, construct2(10000, 70))))
+
+
+>>>>>>> 6ec2a86e820c07adfe3deea1a7d83966510335dc:oblig1.py
